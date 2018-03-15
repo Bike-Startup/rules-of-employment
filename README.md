@@ -4,7 +4,7 @@
 
 株式会社 自転車創業の就業規則です。
 
-
+https://bike-startup.github.io/rules-of-employment/
 
 
 
